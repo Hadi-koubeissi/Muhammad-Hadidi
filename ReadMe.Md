@@ -20,3 +20,7 @@
 <a href="https://github.com/Muhammad-Hadidi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hadidi"/>
 </a>
+
+<script>
+console.log("Hello");
+</script>
