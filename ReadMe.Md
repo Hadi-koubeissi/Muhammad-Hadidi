@@ -11,12 +11,12 @@
 
 ### GitHub Stats:
 
-<a href="https://github.com/Muhammad-Hadidi"">
+<a href="https://github.com/Muhammad-Hadidi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Muhammad-Hadidi"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/Muhammad-Hadidi"">
+<a href="https://github.com/Muhammad-Hadidi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hadidi"/>
 </a>
