@@ -11,9 +11,6 @@
 
 ### GitHub Stats:
 
-
 <img align="laft" src="https://github-readme-stats.vercel.app/api/?username=Muhammad-Hadidi" alt="Mu7aMMaD's Github Stats" />
-
----
 
 <img align="laft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hadidi" alt="top-langs"/>
