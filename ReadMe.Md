@@ -1,4 +1,4 @@
-<img align="right" src="https://avatars0.githubusercontent.com/u/69051329" width="200">
+<img align="right" src="https://avatars0.githubusercontent.com/u/69051329" width="150">
 
 ### Hi there 👋, I'm Muhammad - aka Mu7aMMaD.
 
