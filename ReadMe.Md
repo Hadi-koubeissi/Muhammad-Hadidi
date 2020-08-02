@@ -11,6 +11,12 @@
 
 ### GitHub Stats:
 
-<img align="laft" src="https://github-readme-stats.vercel.app/api/?username=Muhammad-Hadidi" alt="Mu7aMMaD's Github Stats" />
+<a href="https://github.com/Muhammad-Hadidi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Muhammad-Hadidi"/>
+</a>
 
-<img align="laft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hadidi" alt="top-langs"/>
+<br><br>
+
+<a href="https://github.com/Muhammad-Hadidi">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hadidi"/>
+</a>
